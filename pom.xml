@@ -16,6 +16,10 @@
     <module>SingletonPattern</module>
     <module>CommandPattern</module>
     <module>AdapterAndFacadePattern</module>
+    <module>TemplateMethodPattern</module>
+    <module>IteratorPattern</module>
+    <module>CompositePattern</module>
+    <module>StatePattern</module>
   </modules>
 
   <properties>
